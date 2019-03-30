@@ -1,6 +1,8 @@
 awesome-node-cli-libraries
 ==========================
 
+### A list of libraries and infrastructure for building CLI's with node
+
 ### CLI Builder
 
 Tools that build CLI apps
