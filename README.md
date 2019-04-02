@@ -25,7 +25,6 @@ Tools that build CLI apps
 ## Rendering
 
 * [ink](https://github.com/vadimdemedes/ink): 🌈 React for interactive command-line apps
-* 
 
 ### Testing
 
